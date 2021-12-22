@@ -1,5 +1,5 @@
 {
-  {
+  "datasetId": "61c32270e13340046a69e053",
   "dataset": {
     "type": "image",
     "uri": "file://path/to/data",
@@ -89,6 +89,5 @@
         }
       }
     ]
-  }
-  "datasetId": "61c32270e13340046a69e053"
 }
+  
