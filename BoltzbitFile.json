@@ -1,8 +1,17 @@
 {
   "dataset": {
-    "type": "image",
-    "uri": "file://path/to/data",
+    "type": "imagepair",
+    "args": {
+      "image1_uri": "file://path/to/image1",
+      "image2_uri": "file://path/to/image2"
+    },
     "ops": [
+      {
+        "class": "TrainTestSplit",
+        "args": {
+          "test_size": 3016
+        }
+      },
       {
         "class": "Resize",
         "args": {
@@ -90,5 +99,4 @@
     ]
   },
   "datasetId": "61c32270e13340046a69e053"  
-}
-  
+} 
