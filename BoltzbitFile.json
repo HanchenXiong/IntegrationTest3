@@ -1,1 +1,29 @@
-{"id":"61e071fea24b3564e25591ea","createdAt":"Jan 13, 2022 6:39:57 PM","createdBy":"demo-user","sharedWith":[{"userGroupId":"PUBLIC","accessLevel":"READ_ONLY"}],"projectName":"Project_HanchenXiong/IntegrationTest3","aiType":"DA","datasetId":"61e02df2be74135410313745","modelIds":["61e071fc96cbbd2d12d6fde9","61e071fc96cbbd2d12d6fdea","61e071fc96cbbd2d12d6fdeb","61e071fc96cbbd2d12d6fdec","61e071fc96cbbd2d12d6fded","61e071fc96cbbd2d12d6fdee","61e071fc96cbbd2d12d6fdef","61e071fc96cbbd2d12d6fdf0","61e071fc96cbbd2d12d6fdf1"],"trainingJobIds":["61e071fd507af35ea19d9418"],"status":"DATASET_SELECTION"}
+{
+  "id": "61e4433ca24b3564e25591f3",
+  "createdAt": "Jan 16, 2022 4:09:32 PM",
+  "createdBy": "demo-user",
+  "sharedWith": [
+    {
+      "userGroupId": "PUBLIC",
+      "accessLevel": "READ_ONLY"
+    }
+  ],
+  "projectName": "Project_HanchenXiong/IntegrationTest3",
+  "aiType": "DA",
+  "datasetId": "61e02df2be74135410313745",
+  "modelIds": [
+    "61e4433b96cbbd2d12d6fe1f",
+    "61e4433b96cbbd2d12d6fe20",
+    "61e4433b96cbbd2d12d6fe21",
+    "61e4433b96cbbd2d12d6fe22",
+    "61e4433b96cbbd2d12d6fe23",
+    "61e4433b96cbbd2d12d6fe24",
+    "61e4433b96cbbd2d12d6fe25",
+    "61e4433b96cbbd2d12d6fe26",
+    "61e4433b96cbbd2d12d6fe27"
+  ],
+  "trainingJobIds": [
+    "61e4433b507af35ea19d941e"
+  ],
+  "status": "DATASET_SELECTION"
+}
