@@ -1,6 +1,6 @@
 {
-  "id": "61e59d9aa24b3564e2559212",
-  "createdAt": "Jan 17, 2022 4:47:22 PM",
+  "id": "61e821edb64e25018ac92c33",
+  "createdAt": "Jan 19, 2022 2:36:29 PM",
   "createdBy": "demo-user",
   "sharedWith": [
     {
@@ -10,20 +10,20 @@
   ],
   "projectName": "Project_HanchenXiong/IntegrationTest3",
   "aiType": "DA",
-  "datasetId": "61e55a17f9c0fe490cf12976",
+  "datasetId": "61e800c56a000a4bca3be533",
   "modelIds": [
-    "61e59d9996cbbd2d12d6fe4c",
-    "61e59d9996cbbd2d12d6fe4d",
-    "61e59d9996cbbd2d12d6fe4e",
-    "61e59d9996cbbd2d12d6fe4f",
-    "61e59d9996cbbd2d12d6fe50",
-    "61e59d9996cbbd2d12d6fe51",
-    "61e59d9996cbbd2d12d6fe52",
-    "61e59d9996cbbd2d12d6fe53",
-    "61e59d9996cbbd2d12d6fe54"
+    "61e821eb96cbbd2d12d6fe70",
+    "61e821eb96cbbd2d12d6fe71",
+    "61e821eb96cbbd2d12d6fe72",
+    "61e821eb96cbbd2d12d6fe73",
+    "61e821eb96cbbd2d12d6fe74",
+    "61e821eb96cbbd2d12d6fe75",
+    "61e821eb96cbbd2d12d6fe76",
+    "61e821eb96cbbd2d12d6fe77",
+    "61e821eb96cbbd2d12d6fe78"
   ],
   "trainingJobIds": [
-    "61e59d9a507af35ea19d9421"
+    "61e821ed97fe00169c1cad1f"
   ],
   "status": "DATASET_SELECTION"
 }
